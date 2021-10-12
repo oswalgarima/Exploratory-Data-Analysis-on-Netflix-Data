@@ -31,8 +31,29 @@ After installation, download the above files present in the repository to our sy
 * Why has Netflix's Video Count Increased So Much?
 
 Netflix has clearly established itself as the largest company in the film/drama industry.
-
 Let's take a look at how Netflix has grown and what it means in terms of data.
 * Using wiki data [Netflix(wiki)](https://en.wikipedia.org/wiki/Netflix).
+* [Timeline of Netflix](https://en.wikipedia.org/wiki/Timeline_of_Netflix)
+<img width="3426" alt="g3f" src="https://user-images.githubusercontent.com/67439940/137004944-dda0bee4-217c-4e99-9deb-d57175de0ebe.png">
+The phenomenal growth of the streaming service since its launch is well-known.<br />
+<br />
 
-## Shows and movies (Genre)
+* Now let's see Which country is the most productive in terms of content creation?
+
+![g2](https://user-images.githubusercontent.com/67439940/137006487-0fe3bce2-b021-4b98-8dc4-7aee06c4aaf5.png)<br />
+<br />
+We can also utilise TreeMap mosaic graphs, etc., which are suitable for structural tree data and can be used for huge comparisons.
+
+* Finding a link between the months
+we can relate highest count in a particular month
+
+![g10](https://user-images.githubusercontent.com/67439940/137009599-e278f801-8d10-4c7c-b0b8-157336feb8fc.png)
+The graph shows that November 2019 saw a high number of Netflix content updates.
+
+## Contributing
+Contributions for pull requests are welcomed. Please first start an issue to discuss what you'd like to change before making any big modifications.
+
+Please ensure that tests are updated as needed.
+
+## Conclusion
+To sum up our analysis, we have gathered a lot of data that will be valuable in the future for improving our strategies our relationships applied on data sets or methodologies for company growth.
