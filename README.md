@@ -57,3 +57,6 @@ Please ensure that tests are updated as needed.
 
 ## Conclusion
 To sum up our analysis, we have gathered a lot of data that will be valuable in the future for improving our strategies our relationships applied on data sets or methodologies for company growth.
+
+## Reference
+Referenced from [link](https://www.kaggle.com/subinium/storytelling-with-data-netflix-ver/notebook)
